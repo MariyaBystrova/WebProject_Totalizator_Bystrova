@@ -1,0 +1,5 @@
+package by.tr.totalizator.command;
+
+public enum CommandName {
+	LOGINATION, LOGOUT, REGISTRATION, GO_TO_REGISTRATION, UNKNOWN_COMMAND, RU, EN, SHOW_COUPON_MATCHES, GO_TO_GENERAL
+}
